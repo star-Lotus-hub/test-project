@@ -1,1 +1,1 @@
-// hello world
+console.log('star-lotus-hub')
